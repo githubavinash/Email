@@ -2,7 +2,7 @@
 #Generates random names
 
 
-import names
+#import names
 import datetime
 import smtplib
 import argparse
